@@ -1,4 +1,4 @@
-%define upstream_version 17.5.0
+%define upstream_version 22.10.0
 Name:           python3-incremental
 Version:        %{upstream_version}
 Release:        0
